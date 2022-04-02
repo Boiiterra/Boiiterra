@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 # Welcome to my profile
 
 ### 🔍 I am learning 🔍
-+ Python
-+ Shell
++ Python 🐍
++ Shell 🐚
 
 ### 📊 GitHub Statistics 📈
 
