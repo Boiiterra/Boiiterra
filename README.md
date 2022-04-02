@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to my profile
 
-### :FcSearch: I am learning:
+### I am learning:
 + Python
 + Shell
 
