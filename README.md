@@ -3,6 +3,7 @@
 ### 🔍 I am learning 🔍
 + Python 🐍
 + Shell 🐚
++ HTML 📖
 
 ### 📊 My coding statistics 📈
 
