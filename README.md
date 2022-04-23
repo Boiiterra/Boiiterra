@@ -4,6 +4,8 @@
 + Python 🐍
 + Shell 🐚
 + HTML 📖
++ CSS 🎨
++ JavaScript 🛠️
 
 ### 📊 My coding statistics 📈
 
