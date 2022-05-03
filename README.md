@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-### &nbsp; 🔍 &nbsp; I am learning &nbsp; 🔍
+### 🔍 &nbsp; I am learning &nbsp; 🔍
 <br>
 
 + Python &nbsp; 🐍
@@ -10,12 +10,12 @@
 + JavaScript &nbsp; 🛠️
 
 <br>
-<details><br>
-<summary><span style="font-size: 16px;">
-  📊 &nbsp; My coding statistics &nbsp; 📈
-</span></summary >
+
+### 📊 &nbsp; My coding statistics &nbsp; 📈
 
 <br>
+<details><br>
+<summary><strong>Show</strong></summary >
 <div align="left">
 
   [![TerraBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerraBoii&include_all_commits=true&hide_border=true)](https://github.com/TerraBoii)
