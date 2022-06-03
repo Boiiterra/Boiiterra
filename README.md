@@ -8,6 +8,7 @@
 + HTML &nbsp; 📖
 + CSS &nbsp; 🎨
 + JavaScript &nbsp; 🛠️
++ C++ ⚙️
 
 <br>
 
