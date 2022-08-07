@@ -10,14 +10,9 @@
 + C++ ⚙️
 
 <br>
-<!--
-### 📊 &nbsp; Some statistics &nbsp; 📈
--->
-
 <details><br>
 <summary><h3>📊 &nbsp; Some statistics &nbsp; 📈</h3></summary >
 
-<br>
 <div align="left">
 
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api?username=TerraBoii&include_all_commits=true&hide_border=true)](https://github.com/TerraBoii)
