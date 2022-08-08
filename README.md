@@ -8,6 +8,7 @@
 + CSS &nbsp; 🎨
 + JavaScript &nbsp; 🛠️
 + C++ ⚙️
++ Rust 🦀
 
 <br>
 <details><br>
