@@ -17,14 +17,16 @@
 + Rust 🦀
 
 <br>
-<details><br>
-<summary><h3>📊 &nbsp; Some statistics &nbsp; 📈</h3></summary>
+
+### 📊 &nbsp; Some statistics &nbsp; 📈
+
 <div align="left">
+<br>
 
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api?username=TerraBoii&include_all_commits=true&hide_border=true)](https://github.com/TerraBoii)
 
 
-<details><br>
+<details>
 <summary><h4>Time spent coding.</h4></summary>
 
 [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api/wakatime?username=TerraBoii&hide_border=true&custom_title=Time%20spent%20coding%20with%20...%20since%20April%203%202022:)](https://github.com/TerraBoii)
@@ -37,4 +39,3 @@
 
 </details>
 </div>
-</details>
