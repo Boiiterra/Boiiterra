@@ -1,12 +1,6 @@
 # Welcome to my profile
 
-<!--
-    _
-.__(.)< (BARK)
-\____)
--->
-
-### 🔍 &nbsp; I am learning &nbsp; 🔍
+## 🔍 &nbsp; I am learning &nbsp; 🔍
 
 + Python &nbsp; 🐍
 + Shell &nbsp; 🐚
@@ -18,7 +12,7 @@
 
 <br>
 
-### 📊 &nbsp; Some statistics &nbsp; 📈
+## 📊 &nbsp; Some statistics &nbsp; 📈
 
 <div align="left">
 <br>
