@@ -7,8 +7,9 @@
 + HTML &nbsp; 📖
 + CSS &nbsp; 🎨
 + JavaScript &nbsp; 🛠️
-+ C++ ⚙️
-+ Rust 🦀
++ C++ &nbsp; ⚙️
++ Rust &nbsp; 🦀
++ Kotlin &nbsp; ♨
 
 <br>
 
