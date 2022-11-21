@@ -19,6 +19,9 @@
 <br>
 
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api?username=TerraBoii&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/TerraBoii)
+
+  <br>
+
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://www.codewars.com/users/TerraBoii/badges/small)](https://www.codewars.com/users/TerraBoii "I am on codewars")
 
 
