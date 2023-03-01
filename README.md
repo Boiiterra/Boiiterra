@@ -18,7 +18,7 @@
 <div align="left">
 <br>
 
-  [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api?username=Boiiterra&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Boiiterra)
+  [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://github-readme-stats.vercel.app/api?username=boiiterra&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Boiiterra)
 
   <br>
 
