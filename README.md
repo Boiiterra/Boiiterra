@@ -37,6 +37,10 @@ I do things I like.
 
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://www.codewars.com/users/Boiiterra/badges/small)](https://www.codewars.com/users/Boiiterra "I am on codewars")
 
+  <br>
+  
+  [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://komarev.com/ghpvc/?username=Boiiterra&style=for-the-badge&label=visitors+count&color=120e0e)](https://github.com/Boiiterra)
+
 <!-- <details>
 <summary><h4>Time spent coding.</h4></summary>
 
