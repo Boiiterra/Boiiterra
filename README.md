@@ -1,13 +1,17 @@
 # Welcome to my profile
 
-Programming is quite fascinating:
-adding simple thing can introduce drastic changes. \
-\
 I do things I like.
+
+> Programming is quite fascinating:
+> adding simple thing can introduce drastic changes.
+>
+> If something is missing and there are tools to make it then do it. Why suffer?
 
 <br>
 
 ## 🔍 &nbsp; I am learning this tools &nbsp; 🔍
+
+<!-- TODO: Change this list for more ?beautiful look? -->
 
 + Python &nbsp; 🐍
 + Shell &nbsp; 🐚
@@ -23,6 +27,11 @@ I do things I like.
 <!-- + JavaScript &nbsp; 🔨 -->
 
 + Linux &nbsp; 🐧
++ Neovim &nbsp; ⌨️
+
++ Docker &nbsp; 📦
++ Flask &nbsp; 🌶️
++ PostgreSQL &nbsp; 🐘
 
 <br>
 
@@ -37,8 +46,6 @@ I do things I like.
 
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://www.codewars.com/users/Boiiterra/badges/small)](https://www.codewars.com/users/Boiiterra "I am on codewars")
 
-  <br>
-  
   [![Hello there. You have something wrong with the Internet but I think that you are cute :3](https://komarev.com/ghpvc/?username=Boiiterra&style=for-the-badge&label=visitors+count&color=120e0e)](https://github.com/Boiiterra)
 
 <!-- <details>
