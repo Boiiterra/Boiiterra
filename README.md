@@ -13,6 +13,9 @@ I do things I like.
 
 <!-- TODO: Change this list for more ?beautiful look? -->
 
+<details>
+  <summary><h4>Languages</h4></summary>
+
 + Python &nbsp; 🐍
 + Shell &nbsp; 🐚
 + C &nbsp; 🛠️
@@ -20,18 +23,21 @@ I do things I like.
 + OpenGL &nbsp; 🖥️
 + Rust &nbsp; 🦀
 + C# (Unity) &nbsp; 🎮
-<!-- + Kotlin &nbsp; ♨ -->
-
 + HTML &nbsp; 📖
 + CSS &nbsp; 🎨
-<!-- + JavaScript &nbsp; 🔨 -->
+
+</details>
+
+#### Tools
 
 + Linux &nbsp; 🐧
 + Neovim &nbsp; ⌨️
-
 + Docker &nbsp; 📦
 + Flask &nbsp; 🌶️
 + PostgreSQL &nbsp; 🐘
+
+<!-- + JavaScript &nbsp; 🔨 -->
+<!-- + Kotlin &nbsp; ♨ -->
 
 <br>
 
