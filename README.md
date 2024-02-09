@@ -20,7 +20,6 @@ I do things I like.
 + Shell &nbsp; 🐚
 + C &nbsp; 🛠️
 + C++ &nbsp; ⚙️
-+ OpenGL &nbsp; 🖥️
 + Rust &nbsp; 🦀
 + C# (Unity) &nbsp; 🎮
 + HTML &nbsp; 📖
@@ -35,6 +34,7 @@ I do things I like.
 + Docker &nbsp; 📦
 + Flask &nbsp; 🌶️
 + PostgreSQL &nbsp; 🐘
++ OpenGL &nbsp; 🖥️
 
 <!-- + JavaScript &nbsp; 🔨 -->
 <!-- + Kotlin &nbsp; ♨ -->
