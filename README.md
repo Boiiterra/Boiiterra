@@ -15,8 +15,8 @@ I do things I like.
 |---|---|---|---|---|
 | Python &nbsp; 🐍 | C &nbsp; 🔨 | C++ &nbsp; ⚙️ | Rust &nbsp; 🦀 | Java &nbsp; ☕ |
 | HTML &nbsp; 📖 | CSS &nbsp; 🎨 | JavaScript &nbsp;🔧 | Golang &nbsp; 💻 | GDScript &nbsp; 🎲 |
-| Linux &nbsp; 🐧 | Docker &nbsp; 📦 | Neovim &nbsp;⌨️ | Godot &nbsp; 🧰 | Flask &nbsp; 🌶️ |
-| Anvil Studio &nbsp; 🎵 | PostgreSQL &nbsp; 🐘 | | | |
+| Linux &nbsp; 🐧 | Docker &nbsp; 📦 | Neovim &nbsp;⌨️ | PostgreSQL &nbsp; 🐘 | Flask &nbsp; 🌶️ |
+| Godot &nbsp; 🧰 | Aseprite &nbsp; 🖌️ | Anvil Studio &nbsp; 🎵 | | |
 
 <!-- I used tools listed down below in the comments... Need to use them more to keep them on the list. -->
 <!-- + Shell &nbsp; 🐚 -->
